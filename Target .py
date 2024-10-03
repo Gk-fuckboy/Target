@@ -45,7 +45,7 @@ def xox(z):
 def banner():
 	os.system("clear")
 	print("")
- 	print("%s    
+ 	print("%s1
    __  ______      ______ __    _____  ___ 
   /  |/  / _ \____/ __/ // /  _/_/ _ )/ _ \
  / /|_/ / , _/___/\ \/ _  / _/_// _  / // /
@@ -53,7 +53,7 @@ def banner():
   
 	print("")
 	print("%s╔══════════════════════════════════════════╗"%(Z))
-	print("%s║%s  Author   : %s𝙈R-SH./BD                   %s║"%(Z,B,M,Z))
+	print("%s║%s  Author   : 𝙈R-SH./BD                   %s║"%(Z,B,M,Z))
 	print("%s║%s  Github   : https://github.com/MR-fuckboy║"%(Z,B,Z))
 	print("%s║%s  Telegram :       https://t.me/Sakibsyver12s║"%(Z,B,Z))
 	print("%s║%s  Version  : %s1.20                          %s║"%(Z,B,H,Z))
